@@ -2,3 +2,7 @@ p {
   text-decoration: underline;
   color: green;
 }
+
+span {
+  color: green;
+}
